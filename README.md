@@ -1,6 +1,6 @@
 # Expeculiart
 
-!{Expeculiart Home Screenshot](public/expeculiart.png) 
+![Expeculiart Home Screenshot](public/expeculiart.png) 
 
 A responsive front-end website based on a friend's art business. This project was rebuilt from one of my sophomore-year college projects to practice responsive web design and improve my front-end development skills.
 
